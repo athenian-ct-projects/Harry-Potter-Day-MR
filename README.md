@@ -1,9 +1,6 @@
-# Assignment Description
+# Harry Potter Board Game
 
-written by 
+written by MR '23
 
-edit with appropriate link:
-
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-MR)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-MR)
+* There is a game board that goes with this game.
